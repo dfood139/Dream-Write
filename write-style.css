@@ -30,7 +30,7 @@ a{
 
 }
 .land{
-  /* background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.4)),url("landing.jpg"); */
+  background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.4)),url("landing.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
@@ -39,13 +39,13 @@ a{
   position: absolute;
   z-index : 5;
 }
-#myVideo {
+/* #myVideo {
   position: absolute;
   right: 0;
   bottom: 0;
   min-width: 100%;
   min-height: 100%;
-}
+} */
 .logo{
    margin: 0 20px;
    font-size: 22px;
